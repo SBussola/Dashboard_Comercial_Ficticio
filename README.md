@@ -6,7 +6,7 @@
 
 ## Análise de decomposição
 
-![Decomposição](imagens/decomposição.jpg)
+![Decomposição](imagens/decomposicao.jpg)
 
 ## Tabela de análise
 
