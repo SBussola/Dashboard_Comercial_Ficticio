@@ -4,11 +4,11 @@
 
 ![Resumo](images/resumo.jpg)
 
-## Análise de decomposição
+## Análise de decomposicao
 
 ![Decomposição](images/decomposicao.jpg)
 
-## Tabela de análise
+## Tabela de analise
 
 ![Tabela](images/tabela.jpg)
 
